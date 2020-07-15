@@ -1,0 +1,12 @@
+# Site settings
+title: Andrew Fakher
+description: Andrew's Website
+username: Andrew Fakher
+user_title: iOS Engineer
+email: andrewfakher6@gmail.com
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
